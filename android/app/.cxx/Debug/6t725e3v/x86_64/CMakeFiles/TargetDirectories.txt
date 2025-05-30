@@ -1,0 +1,2 @@
+C:/Users/PC/AndroidStudioProjects/shoesshop/android/app/.cxx/Debug/6t725e3v/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/PC/AndroidStudioProjects/shoesshop/android/app/.cxx/Debug/6t725e3v/x86_64/CMakeFiles/rebuild_cache.dir

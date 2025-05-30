@@ -1,0 +1,63 @@
+plugins {
+    id 'com.android.application'
+    id("kotlin-android")
+
+    // ✅ Add Firebase Plugin Here
+    id 'com.google.gms.google-services'
+
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace = "com.example.shoopsama"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = "28.0.12674087"
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+        languageVersion = "2.0"
+    }
+
+    defaultConfig {
+        applicationId = "com.example.shoopsama"
+        minSdk = 23
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+// ✅ Firebase Dependencies (Do NOT move this)
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:33.12.0')
+    implementation 'com.google.firebase:firebase-auth'
+    implementation 'com.google.firebase:firebase-firestore'
+
+    // Force Firebase Auth to use Kotlin 1.8.0
+    configurations.all {
+        resolutionStrategy {
+            force 'org.jetbrains.kotlin:kotlin-stdlib:2.0.0'
+        }
+    }
+}
+
+
+
+//new add       4 update
+apply plugin: 'com.google.gms.google-services'

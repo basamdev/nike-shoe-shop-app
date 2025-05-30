@@ -1,0 +1,2 @@
+C:/Users/PC/AndroidStudioProjects/shoesshop/android/app/.cxx/RelWithDebInfo/5ir29e2b/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/PC/AndroidStudioProjects/shoesshop/android/app/.cxx/RelWithDebInfo/5ir29e2b/armeabi-v7a/CMakeFiles/rebuild_cache.dir

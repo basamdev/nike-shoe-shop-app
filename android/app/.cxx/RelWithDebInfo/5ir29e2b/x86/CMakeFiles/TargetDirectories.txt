@@ -1,0 +1,2 @@
+C:/Users/PC/AndroidStudioProjects/shoesshop/android/app/.cxx/RelWithDebInfo/5ir29e2b/x86/CMakeFiles/edit_cache.dir
+C:/Users/PC/AndroidStudioProjects/shoesshop/android/app/.cxx/RelWithDebInfo/5ir29e2b/x86/CMakeFiles/rebuild_cache.dir

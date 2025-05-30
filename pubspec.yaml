@@ -1,0 +1,40 @@
+name: a
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
+  cupertino_icons: ^1.0.8
+  cloud_firestore: ^5.6.6
+  google_fonts: ^5.1.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/1logo.png
+    - assets/1NikeShoe-man.png
+    - assets/3Nike-Shoe.png
+    - assets/2NikeShoe-Mens.png
+    - assets/4-Nikeshoe-mens (2).png
+    - assets/5NikeShoe-mens.png
+    - assets/6Nikeshoe-Men.png
+    - assets/11logo.png
+
+

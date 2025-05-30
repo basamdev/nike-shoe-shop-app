@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852583088060",
+    "project_id": "shoopsam-984be",
+    "storage_bucket": "shoopsam-984be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852583088060:android:e2b8fa1c1b1591c9a775b9",
+        "android_client_info": {
+          "package_name": "com.example.shoopsama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRn1I8ZJ8jg9XBf_pWCsm8z9Z_VMjZPac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

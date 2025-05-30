@@ -1,0 +1,2 @@
+C:/Users/HC/AndroidStudioProjects/a - Copy/android/app/.cxx/RelWithDebInfo/4e4e2o54/x86/CMakeFiles/edit_cache.dir
+C:/Users/HC/AndroidStudioProjects/a - Copy/android/app/.cxx/RelWithDebInfo/4e4e2o54/x86/CMakeFiles/rebuild_cache.dir
