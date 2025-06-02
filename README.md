@@ -84,7 +84,6 @@ Payment integration
 More Nike categories
 
 📸 Screenshots
-
 [image](https://github.com/user-attachments/assets/91ca67ea-51d3-4051-a050-dba4951da756)
 [image](https://github.com/user-attachments/assets/8f8978a4-b903-457a-9354-d426c184ca08)
 
