@@ -23,7 +23,8 @@ A sleek and modern mobile app for browsing, purchasing, and managing your favori
 
 ## 📸 Screenshots
 
-> *Add screenshots of your main page, product details, and profile page here.*
+> ![image](https://github.com/user-attachments/assets/c2b0b154-51d0-494e-8c44-6b431ffe4b6f)
+> ![image](https://github.com/user-attachments/assets/7e805760-bac3-435b-bd46-b99237c19c44)
 
 ## 🧪 How to Use
 
@@ -69,7 +70,7 @@ Add more categories and filters
 📧 Contact
 For suggestions or questions:
 Your Name
-[YourEmail@example.com]
+[[(https://github.com/basamdev)]
 GitHub Profile
 
 ⭐️ Don't forget to star the repo if you like this project!
@@ -80,9 +81,7 @@ Edit
 
 ---
 
-Let me know if you want me to customize the tech stack or Firebase setup based on your specific tools.
-![image](https://github.com/user-attachments/assets/c2b0b154-51d0-494e-8c44-6b431ffe4b6f)
-![image](https://github.com/user-attachments/assets/7e805760-bac3-435b-bd46-b99237c19c44)
+
 
 
 
